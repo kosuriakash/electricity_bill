@@ -1,0 +1,4 @@
+500 - 1.50
+500 and above but less than 600 - 1.80
+600 and above but less than 800 - 2.50
+800 and above - 3.00
